@@ -1,0 +1,14 @@
+.card-disabled::before{
+    background-color: rgba(138, 138, 138, 0.295)!important;
+    content: "Sin Stock";
+    font-size:60px;
+    color: white;
+    z-index: 1;
+    text-shadow: 1px 1px 10px  black;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

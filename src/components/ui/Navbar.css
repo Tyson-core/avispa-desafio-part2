@@ -1,0 +1,21 @@
+.cart-shop{
+    color: white;
+    transition: .2s ease-in-out all;
+}
+.cart-shop:hover{
+    color: rgb(199, 199, 199);
+    cursor: pointer;
+}
+
+.number-cart{
+    background-color: red;
+    top: 24px;
+    right: 7px;
+    position: absolute;
+    color: white;
+    border-radius: 50%;
+    height: 22px;
+    width: 22px;
+    line-height: 22px;
+    font-size: 10px;
+}

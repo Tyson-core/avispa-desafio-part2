@@ -1,0 +1,162 @@
+[
+  {
+    "Id": 190,
+    "Tienda": "El Tronco",
+    "SKU": "ROBLE5",
+    "Nombre": "Roble 5''",
+    "Precio": 7800,
+    "Stock": 34
+  },
+  {
+    "Id": 191,
+    "Tienda": "El Tronco",
+    "SKU": "ENCIMA",
+    "Nombre": "Encina",
+    "Precio": 6700,
+    "Stock": 188
+  },
+  {
+    "Id": 192,
+    "Tienda": "Tarros & Co",
+    "SKU": "CHI-PRODVARIO",
+    "Nombre": "Tarro de <h1>Productos Varios</h1> a precio econÃ³mico y un nombre demasiado largo",
+    "Precio": 70,
+    "Stock": 6
+  },
+  {
+    "Id": 193,
+    "Tienda": "Tarros & Co",
+    "SKU": "ARG-LENGUAS1",
+    "Nombre": "Lenguas",
+    "Precio": 15520,
+    "Stock": 10
+  },
+  {
+    "Id": 194,
+    "Tienda": "Los Mares",
+    "SKU": "PIU-NATU-MAR",
+    "Nombre": "Piures",
+    "Precio": 34100,
+    "Stock": 29
+  },
+  {
+    "Id": 195,
+    "Tienda": "Tarros & Co",
+    "SKU": "ANC-TARR-MAR",
+    "Nombre": "Anchoa Tarro",
+    "Precio": 2300,
+    "Stock": 34
+  },
+  {
+    "Id": 196,
+    "Tienda": "El Tronco",
+    "SKU": "ULMO-STD",
+    "Nombre": "Ulmo",
+    "Precio": 3350,
+    "Stock": 44
+  },
+  {
+    "Id": 197,
+    "Tienda": "Tarros & Co",
+    "SKU": "GUA-POROTONEG1",
+    "Nombre": "Porotos Negros",
+    "Precio": 2100,
+    "Stock": 109
+  },
+  {
+    "Id": 198,
+    "Tienda": "Los Mares",
+    "SKU": "ANC-TARR-MAR",
+    "Nombre": "Anchoa Tarro",
+    "Precio": 1560,
+    "Stock": 440
+  },
+  {
+    "Id": 199,
+    "Tienda": "Los Mares",
+    "SKU": "OST-SINC-MAR",
+    "Nombre": "Ostion sin Coral",
+    "Precio": 21000,
+    "Stock": 810
+  },
+  {
+    "Id": 200,
+    "Tienda": "El Tronco",
+    "SKU": "LENG-STD",
+    "Nombre": "Lenga",
+    "Precio": 5500,
+    "Stock": 54
+  },
+  {
+    "Id": 201,
+    "Tienda": "El Tronco",
+    "SKU": "ROBLE4",
+    "Nombre": "Roble 4''",
+    "Precio": 7200,
+    "Stock": 76
+  },
+  {
+    "Id": 210,
+    "Tienda": "Los Mares",
+    "SKU": "OST-CONC-CHI",
+    "Nombre": "OstiÃ³n con Coral",
+    "Precio": 17850,
+    "Stock": 0
+  },
+  {
+    "Id": 211,
+    "Tienda": "El Tronco",
+    "SKU": "MARA-STD",
+    "Nombre": "Mara",
+    "Precio": 4000,
+    "Stock": 68
+  },
+  {
+    "Id": 212,
+    "Tienda": "Tarros & Co",
+    "SKU": "CHI-ARVEJAS",
+    "Nombre": "Arvejas",
+    "Precio": 1980,
+    "Stock": 134
+  },
+  {
+    "Id": 253,
+    "Tienda": "Tarros & Co",
+    "SKU": "CHI-DURAZCONSE",
+    "Nombre": "Duraznos en Conserva",
+    "Precio": 3140,
+    "Stock": 56
+  },
+  {
+    "Id": 254,
+    "Tienda": "Los Mares",
+    "SKU": "CAM-NATU-ECU",
+    "Nombre": "Camaron",
+    "Precio": 2300,
+    "Stock": 156
+  },
+  {
+    "Id": 255,
+    "Tienda": "Los Mares",
+    "SKU": "ANC-NATU-MAR",
+    "Nombre": "Anchoa",
+    "Precio": 2270,
+    "Stock": 231
+  },
+  {
+    "Id": 256,
+    "Tienda": "Tarros & Co",
+    "SKU": "ARG-MANICONS",
+    "Nombre": "Mani en Conserva",
+    "Precio": 1900,
+    "Stock": 780
+  },
+  {
+    "Id": 257,
+    "Tienda": "Tarros & Co",
+    "SKU": "BOL-MAYONESA",
+    "Nombre": "Mayonesa",
+    "Precio": 3560,
+    "Stock": 120
+  }
+]

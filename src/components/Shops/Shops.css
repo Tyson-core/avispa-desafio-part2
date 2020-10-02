@@ -1,4 +1,12 @@
 .card-img{
-    width: 76%!important;
-    padding: 20px;
+    /* width: 80%!important; */
+    padding: 35px!important;
+}
+
+@media only screen and (max-width: 600px) {
+    .card-img{
+        /* width: 50%!important; */
+        /* height: 50%!important; */
+        /* padding: 50px!important; */
+    }
 }

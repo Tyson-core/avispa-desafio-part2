@@ -20,10 +20,10 @@ export const Shops = () => {
                 <div className="card mt-4 mb-4" key={i}>
                 <h5 className="card-header">Tienda N°{i+1}</h5>
                 <div className="row">
-                <div className="col-md-4 d-flex justify-content-center">
-                    <img src="/store_img.png"  className="card-img" alt="..."/>
+                <div className="col-12 col-md-4 ">
+                    <img src="/store_img.png"  className="card-img-top" alt="store" style={{padding:'40px'}}/>
                 </div>
-                <div className="col-md-8">
+                <div className="col-12 col-md-8">
                 <div className="card-body">
                   <h1 className="card-title">{shop}.</h1>
                   <p className="card-text">
